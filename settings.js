@@ -1,14 +1,14 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "50947440869"
 
-global.botNumber = ["2349019529423"]
+global.botNumber = ["50947440869"]
 
 global.anticall = false
 
 global.autoReadChat = false
 
-global.alwaysonline = true
+global.alwaysonline = false
 
 global.autoswview = false
 
@@ -57,7 +57,7 @@ global.fotoRandom = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_w8kkLRBc19chTKUU7FYSld3-XLlEipNqlg&usqp=CAU"]
 global.baileysMd = true
 global.multi = false
-global.prefa = "!"
+global.prefa = "'"
 global.Console = false
 global.autorespon = false
 global.copyright = `BLUE DEMON BOT`
@@ -72,7 +72,7 @@ global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
 global.autoReport = true
-global.autoLevel = true
+global.autoLevel = false
 global.autoSticker = true
 global.gamewaktu = 60
 global.limitCount = 30
